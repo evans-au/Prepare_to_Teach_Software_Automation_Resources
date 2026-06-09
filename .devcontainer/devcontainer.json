@@ -45,7 +45,8 @@
           "html": false,
           "css": false,
           "sql": false
-        }
+        },
+        "chat.agent.enabled": false
       },
       "extensions": [
         "bierner.markdown-mermaid",

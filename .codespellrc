@@ -1,0 +1,3 @@
+[codespell]
+skip = *.png,*.gif,*.jpg,*.jpeg,*.pdf,*.csv,.git,*.lock
+ignore-words-list = fO,fo

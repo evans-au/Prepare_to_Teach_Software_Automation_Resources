@@ -1,0 +1,2 @@
+# Project-specific accepted words for CSpell.
+# Keep one word per line.
